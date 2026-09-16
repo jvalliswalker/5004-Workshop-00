@@ -12,7 +12,7 @@ package edu.northeastern.setup;
  */
 public final class Greeting {
 
-  private static final String STUDENT_NAME = "YOUR NAME HERE";
+  private static final String STUDENT_NAME = "Jamil";
 
   private Greeting() {
     // utility class: no instances
